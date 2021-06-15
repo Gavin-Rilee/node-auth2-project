@@ -33,18 +33,18 @@ You will complete the following tasks and do any extra wiring and package instal
 
 Write the following user access functions inside `api/users/users-model.js`:
 
-- [ ] `find`
-- [ ] `findBy`
-- [ ] `findById`
+- [x] `find`
+- [x] `findBy`
+- [x] `findById`
 
 #### 2B - Middleware Functions
 
 Write the following auth middlewares inside `api/auth/auth-middleware.js`:
 
-- [ ] `restricted`
-- [ ] `only`
-- [ ] `checkUsernameExists`
-- [ ] `validateRoleName`
+- [x] `restricted`
+- [x] `only`
+- [x] `checkUsernameExists`
+- [x] `validateRoleName`
 
 #### 2C - Endpoints
 
@@ -62,7 +62,7 @@ The endpoints inside `api/users/users-router.js` are built already but check the
 
 #### 2D - Secrets File
 
-Complete the `secrets/index.js` file.
+[x] Complete the `secrets/index.js` file.
 
 #### Users Schema
 
